@@ -3,7 +3,7 @@
 Worked as Junior Software Developer in Indevz Tech,gaining experience in Software Development,application design and Implementation.
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
