@@ -2,14 +2,9 @@
 
 ![Scrolling Text](https://readme-typing-svg.herokuapp.com?size=30&color=00008B&lines=Hi,+I'm+Devika👋)
 
-
-
 ##  👩‍🎓**About Me**  
 🎓 Final Year B.Tech Student | Computer Science | Web Developer | AI Enthusiast  
-
-💡 Passionate about Full-Stack Development, AI, and Cloud Computing  <br>  
-📚 Constantly learning and exploring new technologies  <br>  
-🔍 Looking for opportunities in Software Development, AI, and Cloud Computing.
+💡 Passionate about Full-Stack Development, AI, and Cloud Computing <br> 📚 Constantly learning and exploring new technologies<br> 🔍 Looking for opportunities in Software Development, AI, and Cloud Computing.
 
 ## 📊 **GitHub Stats**  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=patchadevikasai&theme=react&hide_border=true)
