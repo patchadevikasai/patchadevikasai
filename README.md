@@ -1,6 +1,10 @@
-<h2 align="left">Hi 👋 I am Devika,a Software Developer.</h2>
+<h2 align="left">Hi 👋 I am Devika</h2>
 
-Worked as Junior Software Developer in Indevz Tech,gaining experience in Software Development,application design and Implementation.
+🚀 Final Year B.Tech Student | Web Developer | AI Enthusiast
+
+💡 Passionate about Full-Stack Development, AI, and Cloud Computing.
+📚 Constantly learning and exploring new technologies.
+🔍 Looking for opportunities in Software Development, AI, and Cloud Computing
 ###
 
 
