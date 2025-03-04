@@ -1,13 +1,24 @@
-<h2 align="left">Hi 👋 I am Devika</h2>
 
-🚀 Final Year B.Tech Student | Web Developer | AI Enthusiast
 
-💡 Passionate about Full-Stack Development, AI, and Cloud Computing.
-📚 Constantly learning and exploring new technologies.
-🔍 Looking for opportunities in Software Development, AI, and Cloud Computing
+![Scrolling Text](https://readme-typing-svg.herokuapp.com?size=30&color=00008B&lines=Hi,+I'm+Devika👋)
+
+
+
+##  👩‍🎓**About Me**  
+🎓 Final Year B.Tech Student | Computer Science | Web Developer | AI Enthusiast  
+
+💡 Passionate about Full-Stack Development, AI, and Cloud Computing  <br>  
+📚 Constantly learning and exploring new technologies  <br>  
+🔍 Looking for opportunities in Software Development, AI, and Cloud Computing.
+
+## 📊 **GitHub Stats**  
+![GitHub Streak](https://streak-stats.demolab.com/?user=patchadevikasai&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patchadevikasai&layout=compact&theme=react)  
+![Devika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patchadevikasai&theme=react-dark)
+
+## 🚀 **Skills**  
+
 ###
-
-
 
 ###
 
@@ -27,6 +38,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
+### 🤖 What I'm Currently Working On  
+- Building a **Video Editor using React & Python** 🎬  
+- Learning **Cloud Computing (AWS, Azure)** ☁️  
+- Enhancing my **Data Structures & Algorithms** knowledge 📚
+   
+
+### 📬Connect with Me
 ###
 
 <div align="left">
@@ -42,3 +60,6 @@
 </div>
 
 ###
+
+![Profile Views](https://komarev.com/ghpvc/?username=patchadevikasai&color=blue&style=flat)  
+
