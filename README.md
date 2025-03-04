@@ -56,5 +56,6 @@
 
 ###
 
-![Profile Views](https://komarev.com/ghpvc/?username=patchadevikasai&color=blue&style=flat)  
+![](https://komarev.com/ghpvc/?username=patchadevikasai)
+
 
