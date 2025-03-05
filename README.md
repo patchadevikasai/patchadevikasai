@@ -4,7 +4,7 @@
 
 ##  👩‍🎓**About Me**  
 🎓 Final Year B.Tech Student | Computer Science | Web Developer | AI Enthusiast <br>
-💡 Passionate about Full-Stack Development, AI, and Cloud Computing <br> 🏢 Worked as **Junior Software Developer** in **Indevz Tech** <br> 📚 Constantly learning and exploring new technologies<br> 🔍 Looking for opportunities in Software Development, AI, and Cloud Computing.
+💡 Passionate about Full-Stack Development, AI, and Cloud Computing <br> 🏢 Worked as **Junior Software Developer** in **Indevz Tech** <br> 📚 Constantly learning and exploring new technologies<br> 🔍 Looking for opportunities in Software Development, AI, and Cloud Computing using AWS.
 
 ## 📊 **GitHub Stats**  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=patchadevikasai&theme=react&hide_border=true)
